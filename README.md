@@ -1,6 +1,9 @@
-# Java.Codigos.curtos
-Códigos que eu crio durante minhas aula de programação em JAVA.
+Java Codigos curtos
+São uns códigos simples em JAVA que é muito comum você fazer em seu primeiro dia de aula prática de lógica de programação.
 
+!mportante!!! Todos os códigos estão com a classe "Main", se forem usar, mude o nome do arquivo para "Main", ou dará erro, pois o nome da classe não condis com o do arquivo.
+
+Códigos que foram desviados são:
 -------------------------------------
 Analise de media: Recebe um valo do usuário, e fala se está aprovado ou reprovado.
 -------------------------------------
